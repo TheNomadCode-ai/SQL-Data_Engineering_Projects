@@ -15,3 +15,4 @@ LIMIT 10;
 -- if it was in case of other langauges you couldnt use it raja
 -- but you can use the alias in order by
 -- it is easy and kind of intellectualdssdfs
+-sdfs
